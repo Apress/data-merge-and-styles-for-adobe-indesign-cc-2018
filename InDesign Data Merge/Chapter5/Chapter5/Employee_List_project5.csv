@@ -1,0 +1,13 @@
+FirstName,LastName,Title,Address,City,Province,PostalCode,Employee Number,Phone Number,Email,OwePrice,MinPrice,Message
+John,Smith,CEO,444 West Elm Street,Vancouver,BC,V9K 4B7,2121,604-999-5542,jsmith@tmc.com,1000.00,100.00,Please pay in full or the minimum payment due.
+Mary,Lewis,Manager,343 East Garnet Ave,Burnaby,BC,V3T 4R9,1311,604-333-4567,mlewis@tmc.com,90.06,10.00,Please pay in full or the minimum payment due.
+Cody,Thompson,Manager,564 Begbie Way,Revelstoke,BC,V8T 4J5,2122,878-673-5532,cthompson@tmc.com,67.48,10.00,Please pay in full or the minimum payment due.
+Alex,Jackson,Manager,563 Begbie Way,Revelstoke,BC,V8T 4J8,2123,878-673-5532,ajackson@tmc.com,-100.00,0.00,You do not need to pay. This will be added as a credit to your next billing.
+Jana,Martins,Sales Representative,676 Northroad Drive,Calgary,AB,V5T 4Q8,2125,605-676-4564,jmartins@tmc.com,-0.12,0.00,You do not need to pay. This will be added as a credit to your next billing.
+Nancy,Coleman,Sales Representative,453 Cooper Lane,Surrey,BC,V6R 2T1,2454,604-676-3433,ncoleman@tmc.com,23.89,10.00,Please pay in full or the minimum payment due.
+Jackie,Vadder,Graphic Designer,444 West Elm Street,Vancouver,BC,V5K 4B7,2456,604-999-5543,jvadder@tmc.com,100.50,20.00,Please pay in full or the minimum payment due.
+Carol,Harper,Geologist,676 Blackrock Ave,Vancouver,BC,V5Q 8T4,2563,604-556-9786,charper@tmc.com,400.00,40.00,Please pay in full or the minimum payment due.
+George,Walters,Geologist,454 Jade Ave,Revelstoke,BC,V6T 5T8,2453,604-567-3433,gwalters@tmc.com,247.67,20.00,Please pay in full or the minimum payment due.
+Jason,Cruz,Sales Representative,454 Jade Ave,Revelstoke,BC,V6T 5T8,5655,676-909-7878,jcruz@tmc.com,23.87,10.00,Please pay in full or the minimum payment due.
+Gordy,Barker,Sales Representative,454 Jade Ave,Revelstoke,BC,V6T 5T8,1124,778-668-5653,gbarker@tmc.com,36.00,10.00,Please pay in full or the minimum payment due.
+Philippe,Pétain,Sales Representative,343 Bluemud Drive,Revelstoke,BC,V5Q 9T4,4456,778-999-5651,ppetain@tmc.com,56.00,10.00,Please pay in full or the minimum payment due.

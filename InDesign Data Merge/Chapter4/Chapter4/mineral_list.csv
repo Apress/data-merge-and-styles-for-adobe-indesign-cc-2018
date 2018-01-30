@@ -1,0 +1,11 @@
+Name,Example,Hardness,Description,@Photos
+Bladed,gypsum,2,"Broad and flat, elongated like a knife blade.",C:\enter_your_path\Project3\data_images\cs_bladed.jpg
+Dendritic,copper,3,"Crystallizing in a ""tree-like"" or branching pattern. ",C:\enter_your_path\Project3\data_images\cs_dendritic.jpg
+Equant,garnet,6.5 to 7.5,Having the same diameter in every direction.,C:\enter_your_path\Project3\data_images\cs_equant.jpg
+Gemstone,"Diamond, Rubies, Emeralds, Amethyst",7 to 10,"A mineral or crystal that can be fashioned into a jewel. This is determined by color, transparency, brilliance and hardness for cutting and polishing.",C:\enter_your_path\Project3\data_images\cs_gemstone.jpg
+Globular,malachite,3.5 to 4,Resembling a bunch of grapes or linked bubbles.,C:\enter_your_path\Project3\data_images\cs_globular.jpg
+Massive,limonite,4 to 5.5 ,Interlocking mineral grains that lack apparent structure.,C:\enter_your_path\Project3\data_images\cs_massive.jpg
+Prismatic,tourmaline,7 to 7.5,Elongated in one direction.,C:\enter_your_path\Project3\data_images\cs_prismatic.jpg
+Acicular Radiating,natrolite and wavellite,5 to 5.5 and 3.5 to 4,Needlelike or often crystals growing out from a central point.,C:\enter_your_path\Project3\data_images\cs_rad_acicular.jpg
+Stirated,pyrite,6 to 6.5,Having very shallow parallel grooves or depressions on one or more crystal faces.,C:\enter_your_path\Project3\data_images\cs_striated.jpg
+Tabular,wulfenite,2.5 to 3,Appears as thick or thin flat plates.,C:\enter_your_path\Project3\data_images\cs_tabular.jpg
